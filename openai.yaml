@@ -1,4 +1,4 @@
-playload:
+payload:
   # openai.com
   - DOMAIN-SUFFIX,openai.com
 
