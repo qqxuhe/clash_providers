@@ -2,4 +2,5 @@ payload:
   # github
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,cloudfunctions.net
+  - DOMAIN-SUFFIX,voachinese.com
 
