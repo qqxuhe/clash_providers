@@ -1,5 +1,5 @@
 payload:
-  # github
+  # github Proxy
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,cloudfunctions.net
   - DOMAIN-SUFFIX,voachinese.com
